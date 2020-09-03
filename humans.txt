@@ -3,6 +3,8 @@
 
 # TEAM
 
+
+    Maneesh		Analyst
     <name> -- <role> -- <twitter>
 
 # THANKS
